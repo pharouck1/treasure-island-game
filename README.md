@@ -25,3 +25,6 @@ Basic game logic
 Make sure Python is installed
 Download this repository or clone it
 Run the file:
+
+
+Built by **Hammed Faruq**    
